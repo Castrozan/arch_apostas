@@ -23,6 +23,8 @@ Conversion notes:
 ----->
 
 
+## Baixe e abra o diagrma html no seu navegador para visualizar o diagrama arquitetural (confia, não tem virus)
+
 
 
 * **Servidor de aplicação**
