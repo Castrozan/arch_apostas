@@ -33,7 +33,7 @@ Conversion notes:
     * Múltiplos serviços de banco de dados serão utilizados para armazenar dados gerais da aplicação, promoções, jogos, times, eventos
     * Banco de dados postgresql será utilizado em muitos dos serviços
     * Os serviços de RDS serão utilizados e estarão disponíveis na private subnet como banco para os micro serviços da aplicação.
-* **Banco de dados NoSql **
+* **Banco de dados NoSql**
     * O banco Dynamo DB da Amazon será utilizado como uma forma de acesso rápida a dados que precisam ser atualizados em tempo real.
     * Utilizando a disponibilidade do serviço da Amazon para o gerenciamento de odds. 
 * **Disponibilidade de dados**
@@ -58,7 +58,7 @@ Conversion notes:
 * **Elaborar o plano de equipe necessário para o desenvolvimento da arquitetura**
     * **Perfis necessários:** Dev Front End, Dev Back End, Arquiteto de Softwares, DBA, DevOps, Scrum Master, PO, PM.
     * **Metodologia de desenvolvimento a ser aplicada**
-        * **Quais cerimônias? **Daily
+        * **Quais cerimônias?** Daily
         * **Quais documentos?** Jira
         * **Qual framework?** Scrum
 
@@ -71,7 +71,7 @@ Utilizamos Attribute-Driven Design (ADD) para identificar e priorizar atributos 
 
 
 * **Identificação de Requisitos e Partes Interessadas:**
-    * **Entendimento do Negócio: **
+    * **Entendimento do Negócio:**
         * Visita em sites de aposta identificando similaridades e core business
     * **Identificação de Atributos de Qualidade:**
         * Identificar partes interessadas para identificar atributos de qualidade críticos para a aplicação (desempenho, disponibilidade, segurança, etc.).
